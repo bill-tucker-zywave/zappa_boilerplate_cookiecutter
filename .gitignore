@@ -1,2 +1,9 @@
 *.pyc
+*.pyo
+
 /.idea/*
+venv
+
+
+
+*.swp
